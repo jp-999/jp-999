@@ -4,8 +4,6 @@
 
 AI and Quality Operations professional with experience in GenAI training, RLHF, SFT, and AI code evaluation. I focus on improving LLM performance, maintaining quality standards, and scaling project operations — pairing KPI monitoring, quality management, and contributor leadership with a hands-on software engineering background.
 
-📍 Hyderabad, India
-
 ## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayanthpeddi999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-peddi)
